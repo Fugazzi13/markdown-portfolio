@@ -1,1 +1,1 @@
-Link to my Github Profile: (https://github.com/Fugazzi13)
+[Link to my Github Profile](https://github.com/Fugazzi13)
