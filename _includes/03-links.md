@@ -1,1 +1,1 @@
-[Text] (https://github.com/Fugazzi13)
+[text] (https://github.com/Fugazzi13)
